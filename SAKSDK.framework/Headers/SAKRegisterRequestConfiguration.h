@@ -1,7 +1,12 @@
+/**
+ * This file is generated using the remodel generation script.
+ * The name of the input file is SAKRegisterRequestConfiguration.value
+ */
 
 #import <Foundation/Foundation.h>
 #import "SAKConfigurationGenderEnum.h"
 
+API_AVAILABLE(ios(10.0))
 @interface SAKRegisterRequestConfiguration : NSObject <NSCopying>
 
 @property (nonatomic, readonly, copy) NSString *snapKitAppId;

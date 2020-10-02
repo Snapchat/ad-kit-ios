@@ -1,6 +1,7 @@
 
 #import <Foundation/Foundation.h>
 
+API_AVAILABLE(ios(10.0))
 @interface SAKAdRequestLocationConfiguration : NSObject <NSCopying>
 
 @property (nonatomic, readonly) double latitude;

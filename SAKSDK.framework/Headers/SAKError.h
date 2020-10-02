@@ -1,3 +1,7 @@
+//
+//  SAKError.h
+//  SAKSDK
+//
 
 #import <Foundation/Foundation.h>
 

@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "SAKSDK"
-    s.version      = "1.0.4"
+    s.version      = "1.0.6"
     s.summary      = "Ad Kit by Snap Inc."
     s.description  = <<-DESC
                         Ad Kit by Snap Inc. allows developers a new way to monetize their apps by showing Snap Ads

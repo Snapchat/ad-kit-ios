@@ -6,6 +6,7 @@
 @class SAKAdRequestConfiguration;
 @class SAKAdRequestLocationConfiguration;
 
+API_AVAILABLE(ios(10.0))
 @interface SAKAdRequestConfigurationBuilder : NSObject
 
 + (instancetype)adRequestConfiguration;

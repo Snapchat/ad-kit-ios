@@ -3,6 +3,7 @@
 
 @class SAKRegisterRequestConfiguration;
 
+API_AVAILABLE(ios(10.0))
 @interface SAKRegisterRequestConfigurationBuilder : NSObject
 
 + (instancetype)registerRequestConfiguration;

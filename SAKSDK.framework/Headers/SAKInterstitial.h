@@ -1,3 +1,7 @@
+//
+//  SAKInterstitial.h
+//  SAKSDK
+//
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
@@ -11,7 +15,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 - (void)interstitialDidLoad:(SAKInterstitial *)ad;
 
-- (void)interstital:(SAKInterstitial *)ad didFailWithError:(NSError *)error;
+- (void)interstitial:(SAKInterstitial *)ad didFailWithError:(NSError *)error;
 
 - (void)interstitialDidExpire:(SAKInterstitial *)ad;
 
