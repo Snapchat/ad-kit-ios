@@ -1,7 +1,9 @@
-/**
- * This file is generated using the remodel generation script.
- * The name of the input file is SAKRegisterRequestConfiguration.value
- */
+//
+//  SAKRegisterRequestConfiguration.h
+//  SAKSDK
+//
+//  Copyright (c) 2020 Snap Inc. All rights reserved.
+//
 
 #import <Foundation/Foundation.h>
 #import "SAKConfigurationGenderEnum.h"

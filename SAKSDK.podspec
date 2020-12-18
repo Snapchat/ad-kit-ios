@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "SAKSDK"
-    s.version      = "1.0.6"
+    s.version      = "1.0.7"
     s.summary      = "Ad Kit by Snap Inc."
     s.description  = <<-DESC
                         Ad Kit by Snap Inc. allows developers a new way to monetize their apps by showing Snap Ads
@@ -30,4 +30,6 @@ Pod::Spec.new do |s|
     s.vendored_frameworks = "SAKSDK.framework"
     s.platform = :ios
     s.ios.deployment_target  = '10.0'
+    s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+    s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 end

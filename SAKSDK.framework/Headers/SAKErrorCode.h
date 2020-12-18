@@ -2,7 +2,7 @@
 //  SAKErrorCode.h
 //  SAKSDK
 //
-//  Created by JUN XU on 5/8/19.
+//  Copyright (c) 2020 Snap Inc. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

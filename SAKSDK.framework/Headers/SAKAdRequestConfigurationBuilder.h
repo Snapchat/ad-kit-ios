@@ -1,3 +1,9 @@
+//
+//  SAKAdRequestConfigurationBuilder.h
+//  SAKSDK
+//
+//  Copyright (c) 2020 Snap Inc. All rights reserved.
+//
 
 #import "SAKAdRequestLocationConfiguration.h"
 
