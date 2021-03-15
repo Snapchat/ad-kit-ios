@@ -42,6 +42,11 @@ API_AVAILABLE(ios(10.0))
 @property (nonatomic, assign, readonly) BOOL isReady;
 
 - (void)loadRequest:(nullable SAKAdRequestConfiguration *)configuration;
+
+/// Presents the Interstitial
+/// @param rootViewController view controller to present from
+/// @param dismissTransition frame (in screen coordinates) of the rectangle from which the interstitial transition
+/// begins and to which it returns.
 - (void)presentFromRootViewController:(UIViewController *)rootViewController
                     dismissTransition:(CGRect)dismissTransition;
 

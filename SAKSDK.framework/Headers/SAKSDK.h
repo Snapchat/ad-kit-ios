@@ -8,7 +8,8 @@
 #import <SAKSDK/SAKInterstitial.h>
 #import <SAKSDK/SAKRewardedAd.h>
 #import <SAKSDK/SAKAdView.h>
+#import <SAKSDK/SAKAdViewController.h>
+#import <SAKSDK/SAKAdContainer.h>
 #import <SAKSDK/SAKMobileAd.h>
 #import <SAKSDK/SAKRegisterRequestConfiguration.h>
 #import <SAKSDK/SAKRegisterRequestConfigurationBuilder.h>
-#import <SAKSDK/SAKRegisterSLCEnum.h>

@@ -44,4 +44,8 @@ typedef NS_ENUM(NSInteger, SAKErrorCode) {
      * Ads are disabled
      */
     SAKErrorAdsDisabled,
+    /*
+     * Ad not visible
+     */
+    SAKErrorAdNotVisible,
 };

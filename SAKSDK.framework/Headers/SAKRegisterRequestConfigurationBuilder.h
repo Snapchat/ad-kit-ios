@@ -18,17 +18,19 @@ API_AVAILABLE(ios(10.0))
 
 - (SAKRegisterRequestConfiguration *)build;
 
-- (instancetype)withSnapKitAppId:(NSString *)snapKitAppId;
+- (instancetype)withSnapKitAppId:(nonnull NSString *)snapKitAppId;
 
-- (instancetype)withPhoneNumber:(NSString *)phoneNumber;
+- (instancetype)withAppStoreAppId:(NSUInteger)appStoreAppId;
 
-- (instancetype)withEmailAddress:(NSString *)emailAddress;
+- (instancetype)withPhoneNumber:(nullable NSString *)phoneNumber;
+
+- (instancetype)withEmailAddress:(nullable NSString *)emailAddress;
 
 - (instancetype)withAge:(NSInteger)age;
 
-- (instancetype)withCategories:(NSArray<NSNumber *> *)categories;
+- (instancetype)withCategories:(nullable NSArray<NSNumber *> *)categories;
 
-- (instancetype)withKeywords:(NSArray<NSString *> *)keywords;
+- (instancetype)withKeywords:(nullable NSArray<NSString *> *)keywords;
 
 - (instancetype)withGender:(SAKConfigurationGenderType)gender;
 

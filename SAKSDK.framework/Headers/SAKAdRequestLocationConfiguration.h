@@ -15,9 +15,7 @@ API_AVAILABLE(ios(10.0))
 @property (nonatomic, readonly) NSInteger accuracyInMeters;
 @property (nonatomic, readonly) NSTimeInterval locationCapturedTimestampInMillis;
 
-- (instancetype)initWithLatitude:(double)latitude
-                           longtitude:(double)longtitude
-                     accuracyInMeters:(NSInteger)accuracyInMeters
-    locationCapturedTimestampInMillis:(NSTimeInterval)locationCapturedTimestampInMillis;
+- (instancetype)initWithLatitude:(double)latitude longtitude:(double)longtitude accuracyInMeters:(NSInteger)accuracyInMeters locationCapturedTimestampInMillis:(NSTimeInterval)locationCapturedTimestampInMillis;
 
 @end
+

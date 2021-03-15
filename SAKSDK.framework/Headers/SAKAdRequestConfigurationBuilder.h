@@ -4,10 +4,8 @@
 //
 //  Copyright (c) 2020 Snap Inc. All rights reserved.
 //
-
-#import "SAKAdRequestLocationConfiguration.h"
-
 #import <Foundation/Foundation.h>
+#import "SAKAdRequestLocationConfiguration.h"
 
 @class SAKAdRequestConfiguration;
 @class SAKAdRequestLocationConfiguration;
@@ -17,13 +15,13 @@ API_AVAILABLE(ios(10.0))
 
 + (instancetype)adRequestConfiguration;
 
-+ (instancetype)adRequestConfigurationFromExistingAdRequestConfiguration:
-    (SAKAdRequestConfiguration *)existingAdRequestConfiguration;
++ (instancetype)adRequestConfigurationFromExistingAdRequestConfiguration:(SAKAdRequestConfiguration *)existingAdRequestConfiguration;
 
 - (SAKAdRequestConfiguration *)build;
 
-- (instancetype)withPublisherSlotId:(NSString *)publisherSlotId;
+- (instancetype)withPublisherSlotId:(nullable NSString *)publisherSlotId;
 
-- (instancetype)withLocation:(SAKAdRequestLocationConfiguration *)location;
+- (instancetype)withLocation:(nullable SAKAdRequestLocationConfiguration *)location;
 
 @end
+
