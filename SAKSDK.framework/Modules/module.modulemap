@@ -1,6 +1,0 @@
-framework module SAKSDK {
-  umbrella header "SAKSDK.h"
-
-  export *
-  module * { export * }
-}
