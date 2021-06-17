@@ -26,7 +26,7 @@
 		</data>
 		<key>Headers/SAKAdView.h</key>
 		<data>
-		zwHtHjWzpY6TRE320/T63460vWc=
+		4xu0HeTBQDez0szJHC/APgleMMg=
 		</data>
 		<key>Headers/SAKAdViewController.h</key>
 		<data>
@@ -42,7 +42,7 @@
 		</data>
 		<key>Headers/SAKErrorCode.h</key>
 		<data>
-		jxW5j30i/0PWwF2UxgW72qM+FNU=
+		trRMTCcrXyf1MkJxn34mNY0VEGQ=
 		</data>
 		<key>Headers/SAKInterstitial.h</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		xwhiwl+gEdyMuc5mAs5i4ApgfSY=
+		OdHQ3FEgJ5016zBB9K84sB4wSyw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -520,11 +520,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zwHtHjWzpY6TRE320/T63460vWc=
+			4xu0HeTBQDez0szJHC/APgleMMg=
 			</data>
 			<key>hash2</key>
 			<data>
-			x/Oux1qi9zLuiPh2EeFqOLaL2Cl5BcMgwK4rPwGIpBg=
+			cTyc6v/ejEL0yjoy4FZWKEU+TM10uPMP3osACnQ4GAY=
 			</data>
 		</dict>
 		<key>Headers/SAKAdViewController.h</key>
@@ -564,11 +564,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jxW5j30i/0PWwF2UxgW72qM+FNU=
+			trRMTCcrXyf1MkJxn34mNY0VEGQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			2l9m/vefGh5IZwjEGG7uWe9853yC/ch9dtZD0vFplGc=
+			ADOZeOLwxskigfo6jJV/1dfuNItdfVif53kyDHOh9vQ=
 			</data>
 		</dict>
 		<key>Headers/SAKInterstitial.h</key>

@@ -21,6 +21,8 @@ typedef NS_ENUM(NSUInteger, SAKAdViewFormat) {
 
 @protocol SAKAdViewDelegate <NSObject>
 
+@property (nonatomic, readonly) UIViewController *rootViewController;
+
 - (void)adViewDidLoad:(SAKAdView *)adView;
 
 - (void)adView:(SAKAdView *)adView didFailWithError:(NSError *)error;
@@ -35,7 +37,8 @@ API_AVAILABLE(ios(10.0))
 @interface SAKAdView : UIView
 
 @property (nonatomic, weak, nullable) id<SAKAdViewDelegate> delegate;
-@property (nonatomic, weak, nullable) UIViewController *rootViewController;
+@property (nonatomic, weak, nullable)
+    UIViewController *rootViewController DEPRECATED_MSG_ATTRIBUTE("Use rootViewController delegate property instead");
 
 - (instancetype)initWithFormat:(SAKAdViewFormat)adViewFormat;
 

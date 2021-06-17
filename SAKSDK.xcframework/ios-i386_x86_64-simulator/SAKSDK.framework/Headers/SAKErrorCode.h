@@ -9,43 +9,47 @@
 
 typedef NS_ENUM(NSInteger, SAKErrorCode) {
     /*
+     * Generic error
+     */
+    SAKErrorGeneric = 0,
+    /*
      * Network error
      */
-    SAKErrorNetworkError,
+    SAKErrorNetworkError = 1,
     /*
      * Cannot request ad due user not eligible
      */
-    SAKErrorNotEligible,
+    SAKErrorNotEligible = 2,
     /*
      * Cannot parse response from network request
      */
-    SAKErrorFailedToParse,
+    SAKErrorFailedToParse = 3,
     /*
      * Cannot request ad due to SDK not ready
      */
-    SAKErrorSDKNotInitialized,
+    SAKErrorSDKNotInitialized = 4,
     /*
      * No ad returned from server
      */
-    SAKErrorNoAdAvailable,
+    SAKErrorNoAdAvailable = 5,
     /*
      * Cannot find creative endpoint to download ad media
      */
-    SAKErrorCodeNoCreativeEndpoint,
+    SAKErrorCodeNoCreativeEndpoint = 6,
     /*
      * Media download error
      */
-    SAKErrorCodeMediaDownloadError,
+    SAKErrorCodeMediaDownloadError = 7,
     /*
      * Failed to Register
      */
-    SAKErrorFailedToRegister,
+    SAKErrorFailedToRegister = 8,
     /*
      * Ads are disabled
      */
-    SAKErrorAdsDisabled,
+    SAKErrorAdsDisabled = 9,
     /*
      * Ad not visible
      */
-    SAKErrorAdNotVisible,
+    SAKErrorAdNotVisible = 10,
 };
