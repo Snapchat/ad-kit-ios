@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "SAKSDK"
-    s.version      = "1.1.2"
+    s.version      = "2.0.0"
     s.summary      = "Ad Kit by Snap Inc."
     s.description  = <<-DESC
                         Ad Kit by Snap Inc. allows developers a new way to monetize their apps by showing Snap Ads
@@ -25,8 +25,8 @@ Pod::Spec.new do |s|
                 }
     s.author             = { "Snap Inc." => "ad-kit-support@snap.com" }
     s.source       = { :git => "https://github.com/Snapchat/ad-kit-ios.git", :tag => "#{s.version}" }
-    s.public_header_files = "SAKSDK.xcframework/ios-arm64_armv7_armv7s/SAKSDK.framework/Headers/*.h"
-    s.source_files = "SAKSDK.xcframework/ios-arm64_armv7_armv7s/SAKSDK.framework/Headers/*.h"
+    s.public_header_files = "SAKSDK.xcframework/ios-arm64_armv7/SAKSDK.framework/Headers/*.h"
+    s.source_files = "SAKSDK.xcframework/ios-arm64_armv7/SAKSDK.framework/Headers/*.h"
     s.vendored_frameworks = "SAKSDK.xcframework"
     s.platform = :ios
     s.ios.deployment_target  = '10.0'
