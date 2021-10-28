@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		62IjqU5j9ZpzFRnwoEmbwznLylY=
+		jqhyuUWJfRAxGn5aJxu+BirpC1c=
 		</data>
 		<key>Headers/SAKAdContainer.h</key>
 		<data>
@@ -14,15 +14,15 @@
 		</data>
 		<key>Headers/SAKAdRequestConfiguration.h</key>
 		<data>
-		kKdnGaugYkZ23HuUJ+V0odTojls=
+		6znFT98WQpi0AssRL31Sv+Pd72Q=
 		</data>
 		<key>Headers/SAKAdRequestConfigurationBuilder.h</key>
 		<data>
-		1p2VJb0lIho7v46boBb3ENMl8+E=
+		PozVo95sf3LEWNN8VgH6wMEm7GI=
 		</data>
 		<key>Headers/SAKAdRequestLocationConfiguration.h</key>
 		<data>
-		FHlt5TOdlbRB+30ZmAQWTI6jWvg=
+		VXcm1BdrYXn7EqIMSVcJn3auRSo=
 		</data>
 		<key>Headers/SAKAdView.h</key>
 		<data>
@@ -54,11 +54,11 @@
 		</data>
 		<key>Headers/SAKRegisterRequestConfiguration.h</key>
 		<data>
-		HrCl7P0veDXSH/j5TiXdiKHdrkA=
+		QDEp+b92QNw8WVNZ0HQQqDSlzlk=
 		</data>
 		<key>Headers/SAKRegisterRequestConfigurationBuilder.h</key>
 		<data>
-		Han+4c5mBf5Dz3jxeljTi0iGsPk=
+		6CRLWha596IeUNNMDQYyEPw+t+4=
 		</data>
 		<key>Headers/SAKRegisterSLCEnum.h</key>
 		<data>
@@ -74,7 +74,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		bbk+tfNIpwn+Xm/7lsmdczzg3Rs=
+		ddMyO2w7UyUrnkMIzc49KrQ77xo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -89,11 +89,47 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>ar.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VXaT+jU7GIxQN/Y6G/qJ8x2N+8U=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ar.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GkAwUTz6WzMztTxKxtv/TafenKk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>bn-BD.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			epggaK4Aaz5MNIdVu8rsE+ZkAGk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>bn-BD.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			m1fCsKhXgHYbhO6VVOMb7cB4ztU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>bn-BD.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aDwSW6P+Ef6tWHo2V5rKZgkIaGk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -107,11 +143,47 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>bn-IN.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2UP7nsZTqElOPs/znQ89IjSoR3E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>bn-IN.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			upVKsZx+Iems2JgsvpBDPJse1Qo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>da.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			cRamjBu5XvmqG8ZjiENUE7CfdfI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>da.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Hha2oKehpnPzxN6lRISXYFWpJl8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>da.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			N5DdXQFkjWDU1bQ1hpRZtioKXjk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -125,11 +197,47 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>de.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tOnOMXd5Ic6k6hnrTWet6HA0QlI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>de.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YVR6LPJsYFzcEk55Hc2JD7015T8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>el.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			Tu4XhXHxnO7MCVc5Sy0pXlzLx70=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>el.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			b+Fk9Iq3q+wLLr3ZG1eNQeDurZY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>el.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PnU8anYIk8JL/gmkxWC6Zp383Mk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -143,11 +251,47 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>en-GB.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XqZclvNxoexsjbGLfpyMgX7WX5Y=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en-GB.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Q85B/Cc2+gi7LZN4EcEY94j9CY8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>en.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			19R1/Ed0QwP23usIVugj5dFfTPg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ah7HpWgmI+35ssQCAGq/9+pDgRA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Q85B/Cc2+gi7LZN4EcEY94j9CY8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -161,11 +305,47 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>es-AR.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gz7BtP7xZQGUHYbn5jeszIeVB2E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es-AR.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iVHgsLiy01/A/kJx4mLR1Le84sQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>es-ES.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			OjNXLep0ZXR8KO3DikwuXnDUADY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es-ES.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CgDO4dGmobtX9IZkW1170QNhuCs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es-ES.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iVHgsLiy01/A/kJx4mLR1Le84sQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -179,11 +359,47 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>es-MX.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vdntzJIiP/+q4EQLM98RxDvksHc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es-MX.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iVHgsLiy01/A/kJx4mLR1Le84sQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>es.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			QHFeSZ89mUWF6TCiauu2J0ou3dA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gz7BtP7xZQGUHYbn5jeszIeVB2E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iVHgsLiy01/A/kJx4mLR1Le84sQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -197,11 +413,47 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>fi.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QMQ2hC/kxhj58Lspph34Qpfs3eQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fi.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gcQfhy2OR7idn2IHuRN0XvJbOQk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>fil-PH.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			9IIt6Qd5c35pPFbqgiQmPGgy8gM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fil-PH.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FbCcFMYYj/EcNtQQ9q7aKL/92Lg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fil-PH.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			G9oAcfFrY37xozDjz1RuJMT/Xng=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -215,11 +467,47 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>fr.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xdXdVV5HXFUxI5wNo1C3MnS7Hmc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			68JzmIB5jmouXkhjf9btFseBQhU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>gu-IN.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			22O/L6jakAN6itEGcEPbljKvArw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>gu-IN.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mvxM73V0SZT2Mnf/z1bW4VA4M/Y=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>gu-IN.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			V7HnRFQ+oaX0zMZF8jrAGyHXSfY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -233,11 +521,47 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>hi-IN.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7BXVJEimzMgGjH1Tk8POiUdOtLI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>hi-IN.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NdVnlwMOa8xXXlvegerppUYzKqU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>id.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			Dr8/wMblIt4jdD1heqXBuJn3pyM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>id.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CwK8bA3KCFPP7tT/+hifdlqLR+U=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>id.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fp181BkD8bTlzDgv2RR7RCM0n4E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -251,6 +575,24 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>it.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6DrT9g5nASFw/eoUyX0ydUz/30A=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>it.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uSgg8WVGmnlwhTR9vzGAkXAKY54=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>ja.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
@@ -260,11 +602,47 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>ja.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PEVOYtWWayIz7sBqAU4fB7llXw4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ja.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dcCmEnUvj6f4nFravvBHAgukPys=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>kn-IN.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VY1GjJJxpA6pkyOpKTMX8eeskDY=
+			g5nt56n72H2RPiCOIXUpA8UJY2k=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>kn-IN.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MtjXo3+8uH2IzxHcWfhWB+eKXzQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>kn-IN.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			no9yh/jisILHmPAh/L6CiqgEdsg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -278,11 +656,47 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>ko.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4E3ofmn24ocmdQWJV2c+ROkLelA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YxcDDKoYb6K9e3k9n3DC0m7PQfU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>ml-IN.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			gtyEOBFlCcaLnSGnVWeQRoLvWcI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ml-IN.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PbWdC63NtqzxgTAbzmEifzJA6jg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ml-IN.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0rtSW5TRDY/dmLWfrvBfIJwuRDg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -296,11 +710,47 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>mr-IN.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4fEL+YXRm1QI7+6Dc6uu+sPy5XQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>mr-IN.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			97m0UpjoQxGMyP0/GMYASMYmnIY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>ms-MY.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			pCuA1r+Sgb+xr80nTRtpUJkUhUQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ms-MY.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cd4/fNs1qo/uPQxV7naZ+JNxVuo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ms-MY.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yDRDkHgmeqTUu8uK4Fte+1f2JDM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -314,11 +764,47 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>nb.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3PnXkMe3rA+3q3pSv2456S2o9LM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nb.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bLWHYYTDQOC/2WzYGXc/bOUS3zA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>nl.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			PjQWUqTfKGya8/81jegpDuDe32I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nl.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4mJXW97Posugaff/bvlWy2ALsD8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nl.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iU+FxZ7s5lq9Ed9CAPLK9iWLdXc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -332,11 +818,47 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>pa-IN.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZwljQLCJug1hVSSNkRq7Glyq68M=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pa-IN.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SY4lQpp05iMfrUEI0ONQJ4OE8QY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>pl.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			CrZMf1YPbtvU5SeoegA+p54M0kQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pl.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JeCAh5Sa0BfL74KFG4VRicNvn0g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pl.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LVH477Ww/M0CTRCQaj+tZkZF5jk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -350,11 +872,47 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>pt-PT.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			X0ND2pCz8DMeXB8+4zfsPhoxenA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-PT.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3YSUlQum9O3yZuvVS9JB6iQCsmA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>pt.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			8xMclcKKqA/hU3vaa1Ne5f/nmjE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NRJEAE1sYpG8BvlU+NsXrl16+Mc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3YSUlQum9O3yZuvVS9JB6iQCsmA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -368,11 +926,47 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>ro.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1G3sCv5CeoCN4+DG1ciOugg5eAg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ro.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lU6M6o2f+495EWaKeLVwb8jLj+M=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>ru.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			4/IvpI+kLztJ/KJLIEcWSzGcf2Y=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ru.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			90Gx2DsCoVDiR1TvUnQt8PSidi0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ru.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			T/iU9elJ+1YMbRok/DhzcTfSnY8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -386,11 +980,47 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>sv.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RDpioHM9Ul+WoWpaFIHWrz9JwFM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>sv.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fvcdisciI4fNdHunWOf0lBpDyjk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>ta-IN.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			DBYa/LH0mBfRNX1gpQlV7NpfM3M=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ta-IN.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4SevBq4Oa8KmRqfCWIMyB6gmte0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ta-IN.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QLx3qUXE083lprQTOBi0cSuo6H0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -404,11 +1034,47 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>te-IN.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			67tYErcYx0AmsvmMOT69DdeVi4Y=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>te-IN.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mnJ0EHfvKHRrpTZK84IQoh4uOkM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>th-TH.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
 			loRex8QwWDYT7C830ImxO5zoZWc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>th-TH.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			f7nOKVj2jv3Aa3eZvy73wQn2cdw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>th-TH.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zoWxtTwF2DKgYgjrjownOdAfQ5I=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -422,11 +1088,47 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>tr.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5D5NgtxzBg7MBCeNQXVyAh7wsAE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>tr.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			y1KwEsWo/9XcD8NSqr3uNeLdP6w=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>ur-PK.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/5VRJjWQaiftZJqO/OCQ+WjNNjs=
+			6e9Ff8IbEhoz0uWENHpmBBculF0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ur-PK.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9XqbWNBCTbvaxcgMlNiDiatsKVY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ur-PK.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CPp2tllCdUg6uhZf2gO4qLE/1qg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -440,6 +1142,24 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>vi-VN.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			A86Hof/Mg1vnlHy7nzYhdw3GbMA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>vi-VN.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			t/aWUsCyIvxUvMTRGyv16lcy8Qs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>zh-Hans.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
@@ -449,11 +1169,47 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>zh-Hans.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tz3wynAbDubQ4Mo+9oCsm+5WG6E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>zh-Hans.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cfiifzQrm0j1M4drDxwjZSUFfVI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>zh-Hant.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			khExdJjT1A9IdE62nWh09Y5sBqc=
+			SdJt0OxGxcL5uE7E746IwMrB4a0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>zh-Hant.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LwT2RtYCML1L8M4usabCkJVocsg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>zh-Hant.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pe42Hf6X8h2XWogaLorlm+dgevg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -465,11 +1221,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			62IjqU5j9ZpzFRnwoEmbwznLylY=
+			jqhyuUWJfRAxGn5aJxu+BirpC1c=
 			</data>
 			<key>hash2</key>
 			<data>
-			Qj8fp3eWrgWDmpXZ7BN08XeZUGaNwEr/9ckIkV0iKjA=
+			qTlhJa/wQulUK/Pjen/x6UyN/erx4BsalLuyG1ymm2w=
 			</data>
 		</dict>
 		<key>Headers/SAKAdContainer.h</key>
@@ -487,33 +1243,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kKdnGaugYkZ23HuUJ+V0odTojls=
+			6znFT98WQpi0AssRL31Sv+Pd72Q=
 			</data>
 			<key>hash2</key>
 			<data>
-			/x5GgftVOb3ZFQox8ywNa6RkqPZq195u6LBWl2O9uF4=
+			2afM0pPd3KB01C4UXveDlaycoFdv72lBstGAhlJI79Q=
 			</data>
 		</dict>
 		<key>Headers/SAKAdRequestConfigurationBuilder.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			1p2VJb0lIho7v46boBb3ENMl8+E=
+			PozVo95sf3LEWNN8VgH6wMEm7GI=
 			</data>
 			<key>hash2</key>
 			<data>
-			l1RWqfS0WxEKhOqWs7lpCXj1DktSwUeqQoeGFlLskWQ=
+			Rh0bquJYf2/HH3uHTbQdSIwe6tL9SwD4k9Gz4Y8v2t8=
 			</data>
 		</dict>
 		<key>Headers/SAKAdRequestLocationConfiguration.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			FHlt5TOdlbRB+30ZmAQWTI6jWvg=
+			VXcm1BdrYXn7EqIMSVcJn3auRSo=
 			</data>
 			<key>hash2</key>
 			<data>
-			tB9TllvLiZz2zOz5GKHPrdcmld9u4s9yMDabtySl8jw=
+			T/QaS53nxD5OinX8OrLyDSLmMvLvE0E2UN0oTx/66hg=
 			</data>
 		</dict>
 		<key>Headers/SAKAdView.h</key>
@@ -597,22 +1353,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HrCl7P0veDXSH/j5TiXdiKHdrkA=
+			QDEp+b92QNw8WVNZ0HQQqDSlzlk=
 			</data>
 			<key>hash2</key>
 			<data>
-			7wp3BEz6J7vZ4Ns/B4+3UZa4yoNeo3rL/rls4zZUhl4=
+			4lm7W10D0uRFpVKatYNIdMZtmDW7mZu/adJZNdggVWY=
 			</data>
 		</dict>
 		<key>Headers/SAKRegisterRequestConfigurationBuilder.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Han+4c5mBf5Dz3jxeljTi0iGsPk=
+			6CRLWha596IeUNNMDQYyEPw+t+4=
 			</data>
 			<key>hash2</key>
 			<data>
-			p0dMbraeavMQmWzEmdf/8kcBTMcqQhIRwYwFO0Wam4I=
+			ojUkLRqqwPWWX3uCaZiOVpdKEfs2TWGM7vEcfQ2E7Bs=
 			</data>
 		</dict>
 		<key>Headers/SAKRegisterSLCEnum.h</key>
@@ -672,6 +1428,32 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>ar.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			VXaT+jU7GIxQN/Y6G/qJ8x2N+8U=
+			</data>
+			<key>hash2</key>
+			<data>
+			2rwoIhGuo37gN/OndLIdCeEveoi7jY23igQyIFFWI6A=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ar.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			GkAwUTz6WzMztTxKxtv/TafenKk=
+			</data>
+			<key>hash2</key>
+			<data>
+			mbzVYKPWRvShOqzx1McU7RUyyMFYmogZh620KP9CGAc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>bn-BD.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
@@ -681,6 +1463,32 @@
 			<key>hash2</key>
 			<data>
 			yua+XRHaDPEl2ysjU1mybBcziNsWhix1jcNwgsGVE8I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>bn-BD.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			m1fCsKhXgHYbhO6VVOMb7cB4ztU=
+			</data>
+			<key>hash2</key>
+			<data>
+			XLbJ4LUhmPiFk0h7rgfYPcb0LaAWP2cIi/jW39L0CoE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>bn-BD.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			aDwSW6P+Ef6tWHo2V5rKZgkIaGk=
+			</data>
+			<key>hash2</key>
+			<data>
+			J1pP8/OGr1qlPkwKbU521kn0DevedH2LWTxIT0YlMrU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -698,6 +1506,32 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>bn-IN.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			2UP7nsZTqElOPs/znQ89IjSoR3E=
+			</data>
+			<key>hash2</key>
+			<data>
+			eiNg1quEXhUUJ9xcZIMhsAwiZtPjOML0ckqg1bdLZHg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>bn-IN.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			upVKsZx+Iems2JgsvpBDPJse1Qo=
+			</data>
+			<key>hash2</key>
+			<data>
+			JitYbfcTiU5tTpBGkzfD9/c9VUJcQJxTGGeG8mWOjI4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>da.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
@@ -707,6 +1541,32 @@
 			<key>hash2</key>
 			<data>
 			JBo7TQUQu2v9zLXq3i//Iai05FJ7VVoJzGQ9Ndiq/Cw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>da.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Hha2oKehpnPzxN6lRISXYFWpJl8=
+			</data>
+			<key>hash2</key>
+			<data>
+			TpAGmzZnFmtuO15uQdXIfJENfI2iFkiTgo6oeyg6Jh0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>da.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			N5DdXQFkjWDU1bQ1hpRZtioKXjk=
+			</data>
+			<key>hash2</key>
+			<data>
+			DNHBXILdcA2SYu97wqVOcKpd0+hAwmziydsasapvAqo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -724,6 +1584,32 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>de.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tOnOMXd5Ic6k6hnrTWet6HA0QlI=
+			</data>
+			<key>hash2</key>
+			<data>
+			HbKScL4TtzzKD9cfolJG5Bs7ha4lGgJ58e/7+t53wfk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>de.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YVR6LPJsYFzcEk55Hc2JD7015T8=
+			</data>
+			<key>hash2</key>
+			<data>
+			FuWh6ndzEDCB965bpSnmf3j5R0H5Sj9UGvVJLukCvcA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>el.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
@@ -733,6 +1619,32 @@
 			<key>hash2</key>
 			<data>
 			g2Q/H5lYBDs9Y8dNWt5yTUTyk3yU7uRObD9YggWu2IE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>el.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			b+Fk9Iq3q+wLLr3ZG1eNQeDurZY=
+			</data>
+			<key>hash2</key>
+			<data>
+			mgxCFX77ny5eof1rEjumZjmsf+0MMjSnt92lRvbIHlU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>el.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PnU8anYIk8JL/gmkxWC6Zp383Mk=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ltin0b6mDGVxUHSKotGq2UwMD1/53bvjVplnh2gDZ8k=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -750,6 +1662,32 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>en-GB.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XqZclvNxoexsjbGLfpyMgX7WX5Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			Xe+P/hZTbJRo9kmy1KgHYXL7Zd2FpFkOa6F62xbVYP8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en-GB.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Q85B/Cc2+gi7LZN4EcEY94j9CY8=
+			</data>
+			<key>hash2</key>
+			<data>
+			V8nCcOoh4Fv5bnloUhYxNnl9AITtKDkueuw9e/pcBYQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>en.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
@@ -759,6 +1697,32 @@
 			<key>hash2</key>
 			<data>
 			+YXBncOKSxqOll0Ntvv7gF1Bda7o8RQhLVA+/klO5OM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ah7HpWgmI+35ssQCAGq/9+pDgRA=
+			</data>
+			<key>hash2</key>
+			<data>
+			bnbe/js4IcTGodpqBAN06E+OutD/Ng8nG/ofEr1MPyQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>en.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Q85B/Cc2+gi7LZN4EcEY94j9CY8=
+			</data>
+			<key>hash2</key>
+			<data>
+			V8nCcOoh4Fv5bnloUhYxNnl9AITtKDkueuw9e/pcBYQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -776,6 +1740,32 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>es-AR.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gz7BtP7xZQGUHYbn5jeszIeVB2E=
+			</data>
+			<key>hash2</key>
+			<data>
+			4cFNAEcSs58JUkmnfmBdUl5uuts3klLsD3Iu88rjnU4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es-AR.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iVHgsLiy01/A/kJx4mLR1Le84sQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			ATq3dyGktIXaQnuDcFE3q0ofaab8DJEIVvPkcO/SXz8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>es-ES.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
@@ -785,6 +1775,32 @@
 			<key>hash2</key>
 			<data>
 			sUjfPuIecoEbasoaVak1uCM62wjHpQ/CgGSHr0ZyvKA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es-ES.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CgDO4dGmobtX9IZkW1170QNhuCs=
+			</data>
+			<key>hash2</key>
+			<data>
+			UHRymwjqHz5QIqzagOLRyWZvsfqhKrw76vqj8FldLH4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es-ES.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iVHgsLiy01/A/kJx4mLR1Le84sQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			ATq3dyGktIXaQnuDcFE3q0ofaab8DJEIVvPkcO/SXz8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -802,6 +1818,32 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>es-MX.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vdntzJIiP/+q4EQLM98RxDvksHc=
+			</data>
+			<key>hash2</key>
+			<data>
+			cgGjfUVTU/hf9Sgaqed7lGD/uFY24yaqPWNNIm1ESEU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es-MX.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iVHgsLiy01/A/kJx4mLR1Le84sQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			ATq3dyGktIXaQnuDcFE3q0ofaab8DJEIVvPkcO/SXz8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>es.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
@@ -811,6 +1853,32 @@
 			<key>hash2</key>
 			<data>
 			cTeYQ2DLmL35mC2MW6MOQDS7sliAgZInnpv7BkEqU5w=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gz7BtP7xZQGUHYbn5jeszIeVB2E=
+			</data>
+			<key>hash2</key>
+			<data>
+			4cFNAEcSs58JUkmnfmBdUl5uuts3klLsD3Iu88rjnU4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>es.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iVHgsLiy01/A/kJx4mLR1Le84sQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			ATq3dyGktIXaQnuDcFE3q0ofaab8DJEIVvPkcO/SXz8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -828,6 +1896,32 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>fi.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QMQ2hC/kxhj58Lspph34Qpfs3eQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			+/ytmdwrI5lcrezLmmIdOaYLVTtmqnC9WeGcnTk/RP4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fi.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gcQfhy2OR7idn2IHuRN0XvJbOQk=
+			</data>
+			<key>hash2</key>
+			<data>
+			JTF96o7+bOKIc/+7sH9kLNW5kNRtNVXqIAxQGU9aIO0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>fil-PH.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
@@ -837,6 +1931,32 @@
 			<key>hash2</key>
 			<data>
 			ek4ixJ3IToVElLbK5X3vbKlLoFaEbDcRwr7wnJ58HpU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fil-PH.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			FbCcFMYYj/EcNtQQ9q7aKL/92Lg=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZMcvBhBMZTezcCLg3S+3usBdKFhisBlGsLX5n8updWs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fil-PH.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			G9oAcfFrY37xozDjz1RuJMT/Xng=
+			</data>
+			<key>hash2</key>
+			<data>
+			4VQAzYKkvC0xtlsFADo8yEYG5VifOxLSqLLcbF99AVc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -854,6 +1974,32 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>fr.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xdXdVV5HXFUxI5wNo1C3MnS7Hmc=
+			</data>
+			<key>hash2</key>
+			<data>
+			DmykLFbPLZiVjJrwtPmwu3NAdXS2XN6Tmjn6YsQwROM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>fr.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			68JzmIB5jmouXkhjf9btFseBQhU=
+			</data>
+			<key>hash2</key>
+			<data>
+			R8+6brr4asjpzb1261tstwlgkxh/cQvJGt9FFP4cBoM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>gu-IN.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
@@ -863,6 +2009,32 @@
 			<key>hash2</key>
 			<data>
 			67/iU4RpRjQo/dWjA4dhvGhd6pb9tN9VfQhhWEHO+ao=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>gu-IN.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mvxM73V0SZT2Mnf/z1bW4VA4M/Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			v7bcJ7Ugu+we79W4mPQarc0VMrLsDc0SLIXxLswavAU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>gu-IN.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			V7HnRFQ+oaX0zMZF8jrAGyHXSfY=
+			</data>
+			<key>hash2</key>
+			<data>
+			y238MDlhv/U+k/QGTe+jCjAAyCfYHxoa49yrnm83Rq0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -880,6 +2052,32 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>hi-IN.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7BXVJEimzMgGjH1Tk8POiUdOtLI=
+			</data>
+			<key>hash2</key>
+			<data>
+			Xwdgps2yMWsNyzvXONh0rKDHwJDunQDhcOdWEm0i36M=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>hi-IN.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NdVnlwMOa8xXXlvegerppUYzKqU=
+			</data>
+			<key>hash2</key>
+			<data>
+			e9MzJR/dD0FeexbK9Xk1iRJmSIv9h09QsnL5UnzMmiI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>id.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
@@ -889,6 +2087,32 @@
 			<key>hash2</key>
 			<data>
 			B1tsvT5pzh+pjuyo//DybbPAifoa7dx6LpyQpAbfLIQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>id.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CwK8bA3KCFPP7tT/+hifdlqLR+U=
+			</data>
+			<key>hash2</key>
+			<data>
+			zguvhXJHL8Gi4unK8kwLKEMh5aW1/VlQp4HggwbGwnY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>id.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fp181BkD8bTlzDgv2RR7RCM0n4E=
+			</data>
+			<key>hash2</key>
+			<data>
+			oAxWrj+2Mjdt8ZRQmpGCiJTfH6f3PYl+5lBPY4uAewE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -906,6 +2130,32 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>it.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6DrT9g5nASFw/eoUyX0ydUz/30A=
+			</data>
+			<key>hash2</key>
+			<data>
+			MilLQAXHf9WmiXcpAGpywt1Q+/5NJpcAiQIMnKzTexY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>it.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uSgg8WVGmnlwhTR9vzGAkXAKY54=
+			</data>
+			<key>hash2</key>
+			<data>
+			XGFs5DqMSTvKEcYADrFw6tgRKS7l0ogrnyFfaAFGNuo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>ja.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
@@ -919,15 +2169,67 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>ja.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PEVOYtWWayIz7sBqAU4fB7llXw4=
+			</data>
+			<key>hash2</key>
+			<data>
+			s84yWGkifsgYnzZxvbasQ6U3Iaqso900BV2Lpycaj3s=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ja.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			dcCmEnUvj6f4nFravvBHAgukPys=
+			</data>
+			<key>hash2</key>
+			<data>
+			zFotDrqJlNJxaag4kNTvrXPIOWAlPQ6f0ZkVsTsq27g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>kn-IN.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VY1GjJJxpA6pkyOpKTMX8eeskDY=
+			g5nt56n72H2RPiCOIXUpA8UJY2k=
 			</data>
 			<key>hash2</key>
 			<data>
-			B54dyiu3RfuSaOQCldtFt6I4ckd+3MvWef+5whlfVak=
+			aXPL9gz2sBKC1bqq9433QIAi5cN5wsOkMxXQ1BA4Rg0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>kn-IN.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MtjXo3+8uH2IzxHcWfhWB+eKXzQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			f9lGp8DekzeapC8uHTpzWrX5MLpx3boZyQpXcsDPM5c=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>kn-IN.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			no9yh/jisILHmPAh/L6CiqgEdsg=
+			</data>
+			<key>hash2</key>
+			<data>
+			XYBwPCbC/vvKdCqlTyzJ+3lNPODZQsjgcYA46hF8uqI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -945,6 +2247,32 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>ko.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4E3ofmn24ocmdQWJV2c+ROkLelA=
+			</data>
+			<key>hash2</key>
+			<data>
+			OKpXXIFu2azkg0Izb4awqWXkgzJROkqDGUEAdjTwilo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ko.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			YxcDDKoYb6K9e3k9n3DC0m7PQfU=
+			</data>
+			<key>hash2</key>
+			<data>
+			cPbLTQuVvYALYqfMmcWSXeMnXJC9T6Mv7mO7uKhUu7k=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>ml-IN.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
@@ -954,6 +2282,32 @@
 			<key>hash2</key>
 			<data>
 			D/dhj8YEQzZifyXBpp2ouCaVv7OgkUEprSSoo0CmxKc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ml-IN.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PbWdC63NtqzxgTAbzmEifzJA6jg=
+			</data>
+			<key>hash2</key>
+			<data>
+			ArrsjldemNTPGIc+2oadXDEVAttNHwEdwXsmLU1TJCM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ml-IN.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0rtSW5TRDY/dmLWfrvBfIJwuRDg=
+			</data>
+			<key>hash2</key>
+			<data>
+			X4Yqtr2ZGfXalPLVwuk4hfNiKTJ38X+8+nnBCQCvzao=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -971,6 +2325,32 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>mr-IN.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4fEL+YXRm1QI7+6Dc6uu+sPy5XQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			lWjXXe5XkmyWYrXP8PYP5UKb/HfTNwkxZ9xRVMz9gGk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>mr-IN.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			97m0UpjoQxGMyP0/GMYASMYmnIY=
+			</data>
+			<key>hash2</key>
+			<data>
+			JxsXsyXRa9ZQXpNMKIoKnbs2ERQv0Is6mjptyDiP6xI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>ms-MY.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
@@ -980,6 +2360,32 @@
 			<key>hash2</key>
 			<data>
 			JzjlHxnDyoVs7a6hNSgvw+2mOAOyMfPYMM/NJHSkUIQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ms-MY.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cd4/fNs1qo/uPQxV7naZ+JNxVuo=
+			</data>
+			<key>hash2</key>
+			<data>
+			AyOWDrd7XDZTnGuKtWr6Sh+wa4giwwKL3nw3a9DV4fE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ms-MY.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yDRDkHgmeqTUu8uK4Fte+1f2JDM=
+			</data>
+			<key>hash2</key>
+			<data>
+			3lPV6PJ60kYJUIxVIPqbHsJxeh+Hsssgv3ge7dUoves=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -997,6 +2403,32 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>nb.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3PnXkMe3rA+3q3pSv2456S2o9LM=
+			</data>
+			<key>hash2</key>
+			<data>
+			MbBsIF8BSfsAcEoxjRjouME8TjQBZeBdj1HgTTs+WFE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nb.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bLWHYYTDQOC/2WzYGXc/bOUS3zA=
+			</data>
+			<key>hash2</key>
+			<data>
+			kwkNvR0WRqXaJ26u/iu4pNNYFZg/Y1KB61wT3d/rvCk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>nl.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
@@ -1006,6 +2438,32 @@
 			<key>hash2</key>
 			<data>
 			UM3u17FF72FgegThdCB5gRogh3NIQeub+II9TR3Fv2Y=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nl.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4mJXW97Posugaff/bvlWy2ALsD8=
+			</data>
+			<key>hash2</key>
+			<data>
+			U86Jp6EC6WeWx9Qg/FxD0s3n7oGVlwyhb6x9wi4t/uM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>nl.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iU+FxZ7s5lq9Ed9CAPLK9iWLdXc=
+			</data>
+			<key>hash2</key>
+			<data>
+			YAB7a8adIxQVG62nNHuUugwpqwCnUDPIhLDonqwJyf4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1023,6 +2481,32 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>pa-IN.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZwljQLCJug1hVSSNkRq7Glyq68M=
+			</data>
+			<key>hash2</key>
+			<data>
+			uwqg382XiOoqGmqaLWUCRT0pDAZNv4FFfs0RUJsNbus=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pa-IN.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SY4lQpp05iMfrUEI0ONQJ4OE8QY=
+			</data>
+			<key>hash2</key>
+			<data>
+			aeP0uN3wZYgsc8KQGnsM/JVtCwZkfOYz9ap1K+QRrf0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>pl.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
@@ -1032,6 +2516,32 @@
 			<key>hash2</key>
 			<data>
 			2V10XkylWZV53vcz8IBKWeNcQuczlj4aQObs8P9+QTU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pl.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			JeCAh5Sa0BfL74KFG4VRicNvn0g=
+			</data>
+			<key>hash2</key>
+			<data>
+			8/oakg5s3r53Yg6p/Ck294sEvC9idLZDP+pW2fWW7lQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pl.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LVH477Ww/M0CTRCQaj+tZkZF5jk=
+			</data>
+			<key>hash2</key>
+			<data>
+			nV3cnq6wZ8bbTqPSTN1CAdUm8ygqZt7AJW56TEG0N0c=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1049,6 +2559,32 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>pt-PT.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			X0ND2pCz8DMeXB8+4zfsPhoxenA=
+			</data>
+			<key>hash2</key>
+			<data>
+			YtwqWOu8kPkSFclf4bhTghIva273PQ4Xs2UjULGIJ58=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt-PT.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3YSUlQum9O3yZuvVS9JB6iQCsmA=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZSQVpiKQJJkosPXeBBUafV+ufhL2iz1lKEUvBqxkIzw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>pt.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
@@ -1058,6 +2594,32 @@
 			<key>hash2</key>
 			<data>
 			e9cywUxJi43ioHaDBDnY/XtHVjz1GgLt4NFPUefBOCI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NRJEAE1sYpG8BvlU+NsXrl16+Mc=
+			</data>
+			<key>hash2</key>
+			<data>
+			REmNyUcspiYkXmrvfhJafRYsH98LaIGLVo8T/dAI8x8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>pt.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3YSUlQum9O3yZuvVS9JB6iQCsmA=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZSQVpiKQJJkosPXeBBUafV+ufhL2iz1lKEUvBqxkIzw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1075,6 +2637,32 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>ro.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1G3sCv5CeoCN4+DG1ciOugg5eAg=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZpPStzaNfjTB3DnId5nADSkmnSqV5aqyZ8q+9xwy0ZI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ro.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lU6M6o2f+495EWaKeLVwb8jLj+M=
+			</data>
+			<key>hash2</key>
+			<data>
+			Fc7yRmJuleH4IyazYKN6kGzf++8fuIRTFSW+cTldujU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>ru.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
@@ -1084,6 +2672,32 @@
 			<key>hash2</key>
 			<data>
 			nR/2WlqFH5i63Lge1ApcoUWbSszVjcLAJUUS4fKqA5o=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ru.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			90Gx2DsCoVDiR1TvUnQt8PSidi0=
+			</data>
+			<key>hash2</key>
+			<data>
+			H7BXqBbzazhPtl4zT2WLdltjM0kK7kQVreZaiXnQJP0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ru.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			T/iU9elJ+1YMbRok/DhzcTfSnY8=
+			</data>
+			<key>hash2</key>
+			<data>
+			md+DhdYp2ruENMGzKoWji8V/wm3h9IgHHj5PkxmiFCM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1101,6 +2715,32 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>sv.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RDpioHM9Ul+WoWpaFIHWrz9JwFM=
+			</data>
+			<key>hash2</key>
+			<data>
+			eIssa4OSYYf1qVh4/00dObfcuCw7Opw+ecGzTWUqt7Q=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>sv.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fvcdisciI4fNdHunWOf0lBpDyjk=
+			</data>
+			<key>hash2</key>
+			<data>
+			fJeo1YtRW+hKDgOHjIJRane8BfcoRBUIoTQIvwxM+F0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>ta-IN.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
@@ -1110,6 +2750,32 @@
 			<key>hash2</key>
 			<data>
 			8Tsy/AxPhLs2G0P59aFAfVBJk21Mfu5JeAUYC9i2aEU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ta-IN.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4SevBq4Oa8KmRqfCWIMyB6gmte0=
+			</data>
+			<key>hash2</key>
+			<data>
+			gfNJuuhJhjbgyTbVj7SP/4bqAj8gkcxVsBTLa7Y/LSs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ta-IN.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QLx3qUXE083lprQTOBi0cSuo6H0=
+			</data>
+			<key>hash2</key>
+			<data>
+			Tx17bkFZJjmxMqQTbGPmP6IaOUT9t47JUVBQKQuvgaY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1127,6 +2793,32 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>te-IN.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			67tYErcYx0AmsvmMOT69DdeVi4Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			HLKmGxJnkbvsPlh1C5V52qEM7QkN4auKsjiqBWd1T9g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>te-IN.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mnJ0EHfvKHRrpTZK84IQoh4uOkM=
+			</data>
+			<key>hash2</key>
+			<data>
+			9XVS7Nm41Rp6uC4bhrEdrVKazxpnJNL8ITIdmPhpP8c=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>th-TH.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
@@ -1136,6 +2828,32 @@
 			<key>hash2</key>
 			<data>
 			1rmKiJlcGlyBhPwJB2SZyReTAx2Wu1jIJqs4NagGePw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>th-TH.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			f7nOKVj2jv3Aa3eZvy73wQn2cdw=
+			</data>
+			<key>hash2</key>
+			<data>
+			rMZUuxDqxpNJzLyF5kVaiW4NXmflQhi8k7GBBBBFkJY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>th-TH.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zoWxtTwF2DKgYgjrjownOdAfQ5I=
+			</data>
+			<key>hash2</key>
+			<data>
+			y63TwloifHAcvLdzxq1nMf2SWjTX2WSIcVvHP398mg4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1153,15 +2871,67 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>tr.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			5D5NgtxzBg7MBCeNQXVyAh7wsAE=
+			</data>
+			<key>hash2</key>
+			<data>
+			/Hu8oqUMTle0SvPlGvk0NEDiCmQ8/NsJlbAPHL8pHiI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>tr.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			y1KwEsWo/9XcD8NSqr3uNeLdP6w=
+			</data>
+			<key>hash2</key>
+			<data>
+			OGjDoobVLEQcr9Iy25qeqbGOc+oOVjSu8ryO2vwHJeU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>ur-PK.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/5VRJjWQaiftZJqO/OCQ+WjNNjs=
+			6e9Ff8IbEhoz0uWENHpmBBculF0=
 			</data>
 			<key>hash2</key>
 			<data>
-			NcsjEg0FCWUBoFJioAPfAqncWpZheVbxzx3G6QVx9aY=
+			Cez73X6fovM7BC73rCGRXQ39ij60XcJrHW72v9dIJ9E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ur-PK.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9XqbWNBCTbvaxcgMlNiDiatsKVY=
+			</data>
+			<key>hash2</key>
+			<data>
+			JLGBUnkJpb0khKjkPy2jJgRGBO9+FT9rTx7n9VKRlMI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ur-PK.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CPp2tllCdUg6uhZf2gO4qLE/1qg=
+			</data>
+			<key>hash2</key>
+			<data>
+			hK0jlFJxJv2U3RAVUWF3fbAsNKI4/igfcfq9llqyOOw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1179,6 +2949,32 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>vi-VN.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			A86Hof/Mg1vnlHy7nzYhdw3GbMA=
+			</data>
+			<key>hash2</key>
+			<data>
+			uYWoZ0ijm33RquO8oHGQKOXubyytErUE0CaiaT7XyOY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>vi-VN.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			t/aWUsCyIvxUvMTRGyv16lcy8Qs=
+			</data>
+			<key>hash2</key>
+			<data>
+			MKuk7H1wQ3Qi9fkN85MB+hs7IfWoffdcF9veXCH8zgg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>zh-Hans.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
@@ -1192,15 +2988,67 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>zh-Hans.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			tz3wynAbDubQ4Mo+9oCsm+5WG6E=
+			</data>
+			<key>hash2</key>
+			<data>
+			JDtp/2VsSNxvD1QPQMUJEUJMVuom6IhqSo7BM95q69Q=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>zh-Hans.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cfiifzQrm0j1M4drDxwjZSUFfVI=
+			</data>
+			<key>hash2</key>
+			<data>
+			eMGNRQupwvKqCwqTw7a1NLEcSPYEeYaR8rBU1zllTgw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>zh-Hant.lproj/SAKSDKStrings.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			khExdJjT1A9IdE62nWh09Y5sBqc=
+			SdJt0OxGxcL5uE7E746IwMrB4a0=
 			</data>
 			<key>hash2</key>
 			<data>
-			yhLsc43NJQmrCPsMJleAKaGTNmKLWOy31rgJkWW3l6A=
+			V5Bgzb+TazhZhgVahoOktQGh6dCpfdXBYEJjk5FnCes=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>zh-Hant.lproj/SCWebBrowsing.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LwT2RtYCML1L8M4usabCkJVocsg=
+			</data>
+			<key>hash2</key>
+			<data>
+			ZVz1T4cCETfbCikUZedevd4rF1KppvxEul03NwStPJs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>zh-Hant.lproj/SCWebBrowsingShared.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pe42Hf6X8h2XWogaLorlm+dgevg=
+			</data>
+			<key>hash2</key>
+			<data>
+			e85If5GfXnnF8WCO8sCgbGmHdZv+ZCJ350p3t47Pz8U=
 			</data>
 			<key>optional</key>
 			<true/>

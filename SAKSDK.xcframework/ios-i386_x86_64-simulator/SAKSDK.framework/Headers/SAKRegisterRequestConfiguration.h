@@ -1,12 +1,14 @@
 //
 //  SAKRegisterRequestConfiguration.h
-//  SAKSDK
+//  SAKSDKDataModels
 //
 //  Copyright (c) 2021 Snap Inc. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
 #import "SAKConfigurationGenderEnum.h"
+
+NS_ASSUME_NONNULL_BEGIN
 
 /**
  * AdKit configuration
@@ -54,4 +56,6 @@ API_AVAILABLE(ios(10.0))
 - (instancetype)initWithSnapKitAppId:(nonnull NSString *)snapKitAppId phoneNumber:(nullable NSString *)phoneNumber emailAddress:(nullable NSString *)emailAddress age:(NSInteger)age categories:(nullable NSArray<NSNumber *> *)categories keywords:(nullable NSArray<NSString *> *)keywords gender:(SAKConfigurationGenderType)gender crashReportingDisabled:(BOOL)crashReportingDisabled testModeEnabled:(BOOL)testModeEnabled;
 
 @end
+
+NS_ASSUME_NONNULL_END
 

@@ -1,6 +1,6 @@
 //
 //  SAKAdRequestConfigurationBuilder.h
-//  SAKSDK
+//  SAKSDKDataModels
 //
 //  Copyright (c) 2021 Snap Inc. All rights reserved.
 //
@@ -9,6 +9,8 @@
 
 @class SAKAdRequestConfiguration;
 @class SAKAdRequestLocationConfiguration;
+
+NS_ASSUME_NONNULL_BEGIN
 
 API_AVAILABLE(ios(10.0))
 @interface SAKAdRequestConfigurationBuilder : NSObject
@@ -24,4 +26,6 @@ API_AVAILABLE(ios(10.0))
 - (instancetype)withLocation:(nullable SAKAdRequestLocationConfiguration *)location;
 
 @end
+
+NS_ASSUME_NONNULL_END
 

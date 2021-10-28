@@ -1,6 +1,6 @@
 //
 //  SAKRegisterRequestConfigurationBuilder.h
-//  SAKSDK
+//  SAKSDKDataModels
 //
 //  Copyright (c) 2021 Snap Inc. All rights reserved.
 //
@@ -8,6 +8,8 @@
 #import "SAKConfigurationGenderEnum.h"
 
 @class SAKRegisterRequestConfiguration;
+
+NS_ASSUME_NONNULL_BEGIN
 
 API_AVAILABLE(ios(10.0))
 @interface SAKRegisterRequestConfigurationBuilder : NSObject
@@ -37,4 +39,6 @@ API_AVAILABLE(ios(10.0))
 - (instancetype)withTestModeEnabled:(BOOL)testModeEnabled;
 
 @end
+
+NS_ASSUME_NONNULL_END
 
